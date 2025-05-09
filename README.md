@@ -48,7 +48,7 @@ git clone https://github.com/StructuralWizard/bot_timesheet.git
 cd bot_timesheet
 
 # Install dependencies
-pip install pyautogui pillow keyboard pynput opencv-python
+pip install -r requirements.txt
 ```
 
 ## Usage
